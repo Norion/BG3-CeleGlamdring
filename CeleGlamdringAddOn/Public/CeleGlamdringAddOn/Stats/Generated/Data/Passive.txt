@@ -1,0 +1,5 @@
+new entry "CeleGlam_DanVenoNanGwaith_Passive"
+type "PassiveData"
+data "DisplayName" "hce0cc6f5g18fdg4fbagafc1g5753148f834e;1"
+data "Description" "h610b731egf62fg4447g9e90gd4bbbdc52820;2"
+data "Boosts" "IF(Tagged('FIEND', context.Target)):Advantage(AttackRoll)"
